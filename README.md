@@ -4,7 +4,7 @@
 
 Nivaran lets citizens report, validate, track, and resolve civic issues — potholes, water leaks, broken streetlights, garbage pile-ups — through one unified, AI-powered, multilingual platform. Built for **Vibe2Ship** (Coding Ninjas × Google for Developers), under the **"Community Hero — Hyperlocal Problem Solver"** problem statement.
 
-[![Live Demo](https://nivaran-173290946365.asia-south1.run.app/favicon_icon.png)](https://nivaran-173290946365.asia-south1.run.app/) &nbsp;•&nbsp; [![Project Report](https://tse1.mm.bing.net/th/id/OIP.7bdIUVl9AbofRcywWsfJ7wHaFj?cb=thfvnextfalcon3&rs=1&pid=ImgDetMain&o=7&rm=3)](https://drive.google.com/file/d/1ihxp0EZtpXKnqh-C4gg3ahCD2EHZqx6Z/view?usp=sharing) &nbsp;•&nbsp; [![Pitch Deck](#)](#)
+[![Live Demo](https://nivaran-173290946365.asia-south1.run.app/favicon_icon.png)](https://nivaran-173290946365.asia-south1.run.app/) &nbsp;•&nbsp; [![Project Report]([https://tse1.mm.bing.net/th/id/OIP.7bdIUVl9AbofRcywWsfJ7wHaFj?cb=thfvnextfalcon3&rs=1&pid=ImgDetMain&o=7&rm=3](https://img.icons8.com/?size=100&id=ZSYgDi4fFbDc&format=png&color=000000))](https://drive.google.com/file/d/1ihxp0EZtpXKnqh-C4gg3ahCD2EHZqx6Z/view?usp=sharing) &nbsp;•&nbsp; [![Pitch Deck](#)](#)
 <!-- Replace the # above with your deployed link, report, and deck once ready -->
  
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
