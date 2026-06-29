@@ -4,7 +4,7 @@
 
 Nivaran lets citizens report, validate, track, and resolve civic issues — potholes, water leaks, broken streetlights, garbage pile-ups — through one unified, AI-powered, multilingual platform. Built for **Vibe2Ship** (Coding Ninjas × Google for Developers), under the **"Community Hero — Hyperlocal Problem Solver"** problem statement.
 
-[! [Live Demo](https://nivaran-173290946365.asia-south1.run.app/) &nbsp;•&nbsp; [! [Project Report](https://drive.google.com/file/d/1ihxp0EZtpXKnqh-C4gg3ahCD2EHZqx6Z/view?usp=sharing) &nbsp;•&nbsp; [![Pitch Deck](#)](#) !]
+[! [Live Demo](https://nivaran-173290946365.asia-south1.run.app/) &nbsp;•&nbsp;   [Project Report](https://drive.google.com/file/d/1ihxp0EZtpXKnqh-C4gg3ahCD2EHZqx6Z/view?usp=sharing) &nbsp;•&nbsp;   [![Pitch Deck](#)](#) !]
 <!-- Replace the # above with your deployed link, report, and deck once ready -->
  
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
@@ -13,7 +13,6 @@ Nivaran lets citizens report, validate, track, and resolve civic issues — poth
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini%202.5%20Flash-8E75B2?logo=googlegemini&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -297,10 +296,5 @@ Built for **Vibe2Ship**, a hackathon by **Coding Ninjas × Google for Developers
 **Nitin Raj**
 [LinkedIn](https://www.linkedin.com/in/nitin-raj-17d12/) · [GitHub](https://github.com/17NitinRaj06)
 
-## License
-
-MIT
-
----
 
 Built with ❤️ for stronger communities.
