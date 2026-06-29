@@ -4,7 +4,7 @@
 
 Nivaran lets citizens report, validate, track, and resolve civic issues — potholes, water leaks, broken streetlights, garbage pile-ups — through one unified, AI-powered, multilingual platform. Built for **Vibe2Ship** (Coding Ninjas × Google for Developers), under the **"Community Hero — Hyperlocal Problem Solver"** problem statement.
 
-[![Live Demo](#)](#) &nbsp;•&nbsp; [![Project Report](#)](#) &nbsp;•&nbsp; [![Pitch Deck](#)](#)
+[![Live Demo](https://nivaran-173290946365.asia-south1.run.app/)] &nbsp;•&nbsp; [![Project Report](https://drive.google.com/file/d/1ihxp0EZtpXKnqh-C4gg3ahCD2EHZqx6Z/view?usp=sharing)] &nbsp;•&nbsp; [![Pitch Deck](#)](#)
 <!-- Replace the # above with your deployed link, report, and deck once ready -->
  
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
