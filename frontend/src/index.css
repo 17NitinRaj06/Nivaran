@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background-color: #fafaf9;
+    color: #1c3b20;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: #85c289;
+    color: #fafaf9;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-forest-600 hover:bg-forest-700 text-white font-medium py-3 px-6 rounded-xl transition-all duration-300 shadow-soft hover:shadow-card-hover active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply bg-white hover:bg-beige-50 text-forest-700 font-medium py-3 px-6 rounded-xl border border-beige-200 transition-all duration-300 shadow-soft hover:shadow-card-hover active:scale-[0.98];
+  }
+
+  .btn-ghost {
+    @apply text-forest-600 hover:text-forest-800 hover:bg-forest-50 font-medium py-3 px-6 rounded-xl transition-all duration-200;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-card p-6 transition-all duration-300 hover:shadow-card-hover;
+  }
+
+  .card-glass {
+    @apply bg-white/80 backdrop-blur-md rounded-2xl shadow-soft p-6 border border-white/50;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 rounded-xl border border-beige-200 bg-white text-earth-900 placeholder-beige-400 focus:outline-none focus:ring-2 focus:ring-forest-500 focus:border-transparent transition-all duration-200;
+  }
+
+  .section-heading {
+    @apply font-display text-3xl md:text-4xl lg:text-5xl text-forest-800 leading-tight;
+  }
+
+  .section-subheading {
+    @apply text-lg md:text-xl text-earth-600 max-w-2xl;
+  }
+
+  .nature-link {
+    @apply text-forest-600 hover:text-forest-800 underline decoration-sage-300 underline-offset-4 transition-colors duration-200;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .bg-grid {
+    background-image: linear-gradient(rgba(133, 194, 137, 0.1) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(133, 194, 137, 0.1) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  .glass {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .glass-dark {
+    background: rgba(30, 30, 30, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+}
+
+.leaflet-container {
+  border-radius: 1rem;
+  z-index: 0;
+}
+
+.custom-popup .leaflet-popup-content-wrapper {
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.custom-popup .leaflet-popup-tip {
+  display: none;
+}
+
+.dark .card {
+  @apply bg-gray-800 border-gray-700 text-white;
+}
+
+.dark .card-glass {
+  @apply bg-gray-800/80 border-gray-700 text-white;
+}
+
+.dark .input-field {
+  @apply bg-gray-700 border-gray-600 text-white placeholder-gray-400;
+}
+
+.dark body {
+  @apply bg-gray-900 text-white;
+}
+
+.dark .text-forest-800 {
+  @apply text-white;
+}
+
+.dark .text-earth-600,
+.dark .text-earth-500 {
+  @apply text-gray-400;
+}
